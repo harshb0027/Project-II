@@ -1,0 +1,16 @@
+﻿body {
+    text-align:center;
+    margin:0;
+    color:aliceblue;
+    background-image: url(deepforest.jpg);
+    background-position:top;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:100%;
+    width:100%;
+}
+
+
+footer{
+    text-align:center;
+}

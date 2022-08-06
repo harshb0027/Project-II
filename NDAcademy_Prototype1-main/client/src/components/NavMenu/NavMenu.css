@@ -1,0 +1,29 @@
+﻿a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    font-size: 40px;
+   
+    
+}
+
+
+html {
+    font-size: 15px;
+   
+}
+@media (min-width: 768px) {
+    html {
+        font-size: 22px;
+    }
+}
+
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, 0.751);
+    background-color: white;
+    background-image: url(ndlogoresized.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    
+}

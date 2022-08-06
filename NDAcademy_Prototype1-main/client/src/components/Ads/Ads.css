@@ -1,0 +1,65 @@
+.MainDiv {
+    background-color: #EAFAF1;
+    padding:30px;
+  
+    height: 350px;
+    width:90%;
+    position: absolute;
+    left:50px;
+    
+    
+}
+
+.ImageArea {
+    float:left;
+    width:450px;
+}
+
+.TextArea {
+    position: absolute;
+    left: 500px;
+    padding: 20px;
+    width:800px;
+    
+
+}
+
+.ButtonArea {
+    float: right;
+    margin: 80px;
+    
+}
+a{
+    border-radius: 4px;
+    font-family: Arial;
+    background-color: #73C6B6;
+    color: white;
+    font-size: 30px;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     
+}
+a:hover{
+    background-color: #117A65
+}
+
+.Message01 {
+   
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    font-weight: bold;
+    color: #C0392B ;
+
+}
+
+.Message02{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #186A3B ;
+
+}
+
+
+
